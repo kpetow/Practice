@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAppearanceIInteger", "OddAppearanceIInteger\OddAppearanceIInteger.csproj", "{9529E928-B6FF-4B06-8F22-FB4A9DB00FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9529E928-B6FF-4B06-8F22-FB4A9DB00FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9529E928-B6FF-4B06-8F22-FB4A9DB00FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9529E928-B6FF-4B06-8F22-FB4A9DB00FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9529E928-B6FF-4B06-8F22-FB4A9DB00FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D914E642-8223-45F1-B264-68B8F1795A7A}
+	EndGlobalSection
+EndGlobal

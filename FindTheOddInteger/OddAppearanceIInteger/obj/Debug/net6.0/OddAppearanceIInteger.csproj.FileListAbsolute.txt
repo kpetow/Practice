@@ -1,0 +1,15 @@
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\obj\Debug\net6.0\OddAppearanceIInteger.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\obj\Debug\net6.0\OddAppearanceIInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\obj\Debug\net6.0\OddAppearanceIInteger.AssemblyInfoInputs.cache
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\obj\Debug\net6.0\OddAppearanceIInteger.AssemblyInfo.cs
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\obj\Debug\net6.0\OddAppearanceIInteger.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\bin\Debug\net6.0\OddAppearanceIInteger.exe
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\bin\Debug\net6.0\OddAppearanceIInteger.deps.json
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\bin\Debug\net6.0\OddAppearanceIInteger.runtimeconfig.json
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\bin\Debug\net6.0\OddAppearanceIInteger.dll
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\bin\Debug\net6.0\ref\OddAppearanceIInteger.dll
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\bin\Debug\net6.0\OddAppearanceIInteger.pdb
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\obj\Debug\net6.0\OddAppearanceIInteger.dll
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\obj\Debug\net6.0\ref\OddAppearanceIInteger.dll
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\obj\Debug\net6.0\OddAppearanceIInteger.pdb
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\OddAppearanceIInteger\OddAppearanceIInteger\obj\Debug\net6.0\OddAppearanceIInteger.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\obj\Debug\net6.0\NarcissiticNumCheck.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\obj\Debug\net6.0\NarcissiticNumCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\obj\Debug\net6.0\NarcissiticNumCheck.AssemblyInfoInputs.cache
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\obj\Debug\net6.0\NarcissiticNumCheck.AssemblyInfo.cs
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\obj\Debug\net6.0\NarcissiticNumCheck.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\bin\Debug\net6.0\NarcissiticNumCheck.exe
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\bin\Debug\net6.0\NarcissiticNumCheck.deps.json
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\bin\Debug\net6.0\NarcissiticNumCheck.runtimeconfig.json
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\bin\Debug\net6.0\NarcissiticNumCheck.dll
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\bin\Debug\net6.0\ref\NarcissiticNumCheck.dll
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\bin\Debug\net6.0\NarcissiticNumCheck.pdb
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\obj\Debug\net6.0\NarcissiticNumCheck.dll
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\obj\Debug\net6.0\ref\NarcissiticNumCheck.dll
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\obj\Debug\net6.0\NarcissiticNumCheck.pdb
+C:\Users\kpeto\source\repos\Personal\Practice\NarcissiticNumberCheck\NarcissiticNumCheck\NarcissiticNumCheck\obj\Debug\net6.0\NarcissiticNumCheck.genruntimeconfig.cache

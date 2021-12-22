@@ -1,0 +1,15 @@
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.exe
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.deps.json
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.runtimeconfig.json
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.dll
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\ref\FindTheOddInt.dll
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\bin\Debug\net6.0\FindTheOddInt.pdb
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.AssemblyInfoInputs.cache
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.AssemblyInfo.cs
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.dll
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\ref\FindTheOddInt.dll
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.pdb
+C:\Users\kpeto\source\repos\Personal\Practice\FindTheOddInteger\FindTheOddInt\FindTheOddInt\obj\Debug\net6.0\FindTheOddInt.genruntimeconfig.cache

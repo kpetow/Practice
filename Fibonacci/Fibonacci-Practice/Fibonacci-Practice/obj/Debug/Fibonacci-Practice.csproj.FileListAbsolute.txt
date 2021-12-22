@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Personal\Practice\Fibonacci\Fibonacci-Practice\Fibonacci-Practice\bin\Debug\Fibonacci-Practice.exe.config
+C:\Users\kpeto\source\repos\Personal\Practice\Fibonacci\Fibonacci-Practice\Fibonacci-Practice\bin\Debug\Fibonacci-Practice.exe
+C:\Users\kpeto\source\repos\Personal\Practice\Fibonacci\Fibonacci-Practice\Fibonacci-Practice\bin\Debug\Fibonacci-Practice.pdb
+C:\Users\kpeto\source\repos\Personal\Practice\Fibonacci\Fibonacci-Practice\Fibonacci-Practice\obj\Debug\Fibonacci-Practice.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Personal\Practice\Fibonacci\Fibonacci-Practice\Fibonacci-Practice\obj\Debug\Fibonacci-Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Personal\Practice\Fibonacci\Fibonacci-Practice\Fibonacci-Practice\obj\Debug\Fibonacci-Practice.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Personal\Practice\Fibonacci\Fibonacci-Practice\Fibonacci-Practice\obj\Debug\Fibonacci-Practice.exe
+C:\Users\kpeto\source\repos\Personal\Practice\Fibonacci\Fibonacci-Practice\Fibonacci-Practice\obj\Debug\Fibonacci-Practice.pdb
