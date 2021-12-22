@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\RomanNumeralsEncoder\RomanNumeralEncoder\RomanNumeralEncoder\obj\Debug\RomanNumeralEncoder.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\RomanNumeralsEncoder\RomanNumeralEncoder\RomanNumeralEncoder\obj\Debug\RomanNumeralEncoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\RomanNumeralsEncoder\RomanNumeralEncoder\RomanNumeralEncoder\obj\Debug\RomanNumeralEncoder.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\RomanNumeralsEncoder\RomanNumeralEncoder\RomanNumeralEncoder\bin\Debug\RomanNumeralEncoder.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\RomanNumeralsEncoder\RomanNumeralEncoder\RomanNumeralEncoder\bin\Debug\RomanNumeralEncoder.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\RomanNumeralsEncoder\RomanNumeralEncoder\RomanNumeralEncoder\bin\Debug\RomanNumeralEncoder.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\RomanNumeralsEncoder\RomanNumeralEncoder\RomanNumeralEncoder\obj\Debug\RomanNumeralEncoder.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\RomanNumeralsEncoder\RomanNumeralEncoder\RomanNumeralEncoder\obj\Debug\RomanNumeralEncoder.pdb

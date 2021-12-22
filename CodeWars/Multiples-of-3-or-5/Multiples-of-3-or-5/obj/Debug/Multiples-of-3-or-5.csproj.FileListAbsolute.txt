@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Personal\CodeWars\Multiples-of-3-or-5\Multiples-of-3-or-5\bin\Debug\Multiples-of-3-or-5.exe.config
+C:\Users\kpeto\source\repos\Personal\CodeWars\Multiples-of-3-or-5\Multiples-of-3-or-5\bin\Debug\Multiples-of-3-or-5.exe
+C:\Users\kpeto\source\repos\Personal\CodeWars\Multiples-of-3-or-5\Multiples-of-3-or-5\bin\Debug\Multiples-of-3-or-5.pdb
+C:\Users\kpeto\source\repos\Personal\CodeWars\Multiples-of-3-or-5\Multiples-of-3-or-5\obj\Debug\Multiples-of-3-or-5.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Personal\CodeWars\Multiples-of-3-or-5\Multiples-of-3-or-5\obj\Debug\Multiples-of-3-or-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Personal\CodeWars\Multiples-of-3-or-5\Multiples-of-3-or-5\obj\Debug\Multiples-of-3-or-5.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Personal\CodeWars\Multiples-of-3-or-5\Multiples-of-3-or-5\obj\Debug\Multiples-of-3-or-5.exe
+C:\Users\kpeto\source\repos\Personal\CodeWars\Multiples-of-3-or-5\Multiples-of-3-or-5\obj\Debug\Multiples-of-3-or-5.pdb
