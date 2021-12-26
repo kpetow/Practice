@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\TenMinuteWalk\TenMinuteWalk\bin\Debug\TenMinuteWalk.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\TenMinuteWalk\TenMinuteWalk\bin\Debug\TenMinuteWalk.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\TenMinuteWalk\TenMinuteWalk\bin\Debug\TenMinuteWalk.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\TenMinuteWalk.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\TenMinuteWalk.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\TenMinuteWalk.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\TenMinuteWalk.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\TenMinuteWalk.pdb
