@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\RGBtoHex\RGBtoHex\bin\Debug\RGBtoHex.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\RGBtoHex\RGBtoHex\bin\Debug\RGBtoHex.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\RGBtoHex\RGBtoHex\bin\Debug\RGBtoHex.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\RGBtoHex\RGBtoHex\obj\Debug\RGBtoHex.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\RGBtoHex\RGBtoHex\obj\Debug\RGBtoHex.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\RGBtoHex\RGBtoHex\obj\Debug\RGBtoHex.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\RGBtoHex\RGBtoHex\obj\Debug\RGBtoHex.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\RGBtoHex\RGBtoHex\obj\Debug\RGBtoHex.pdb
