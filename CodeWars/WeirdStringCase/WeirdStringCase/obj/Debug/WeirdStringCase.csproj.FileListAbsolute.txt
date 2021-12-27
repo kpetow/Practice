@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\WeirdStringCase\WeirdStringCase\bin\Debug\WeirdStringCase.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\WeirdStringCase\WeirdStringCase\bin\Debug\WeirdStringCase.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\WeirdStringCase\WeirdStringCase\bin\Debug\WeirdStringCase.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\WeirdStringCase\WeirdStringCase\obj\Debug\WeirdStringCase.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\WeirdStringCase\WeirdStringCase\obj\Debug\WeirdStringCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\WeirdStringCase\WeirdStringCase\obj\Debug\WeirdStringCase.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\WeirdStringCase\WeirdStringCase\obj\Debug\WeirdStringCase.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\WeirdStringCase\WeirdStringCase\obj\Debug\WeirdStringCase.pdb
