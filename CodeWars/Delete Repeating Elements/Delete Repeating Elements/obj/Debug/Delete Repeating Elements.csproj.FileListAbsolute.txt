@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\Delete Repeating Elements\Delete Repeating Elements\bin\Debug\Delete Repeating Elements.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\Delete Repeating Elements\Delete Repeating Elements\bin\Debug\Delete Repeating Elements.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\Delete Repeating Elements\Delete Repeating Elements\bin\Debug\Delete Repeating Elements.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\Delete Repeating Elements\Delete Repeating Elements\obj\Debug\Delete Repeating Elements.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\Delete Repeating Elements\Delete Repeating Elements\obj\Debug\Delete Repeating Elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\Delete Repeating Elements\Delete Repeating Elements\obj\Debug\Delete Repeating Elements.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\Delete Repeating Elements\Delete Repeating Elements\obj\Debug\Delete Repeating Elements.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\Delete Repeating Elements\Delete Repeating Elements\obj\Debug\Delete Repeating Elements.pdb
