@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\MovingZerosToTheEnd.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\MovingZerosToTheEnd.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\MovingZerosToTheEnd\MovingZerosToTheEnd\bin\Debug\MovingZerosToTheEnd.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\MovingZerosToTheEnd.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\MovingZerosToTheEnd.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\MovingZerosToTheEnd.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\MovingZerosToTheEnd.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\MovingZerosToTheEnd\MovingZerosToTheEnd\obj\Debug\MovingZerosToTheEnd.pdb
