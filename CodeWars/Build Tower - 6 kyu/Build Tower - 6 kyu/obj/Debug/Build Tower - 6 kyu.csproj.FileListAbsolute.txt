@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\Build Tower - 6 kyu\Build Tower - 6 kyu\bin\Debug\Build Tower - 6 kyu.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\Build Tower - 6 kyu\Build Tower - 6 kyu\bin\Debug\Build Tower - 6 kyu.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\Build Tower - 6 kyu\Build Tower - 6 kyu\bin\Debug\Build Tower - 6 kyu.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\Build Tower - 6 kyu\Build Tower - 6 kyu\obj\Debug\Build Tower - 6 kyu.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\Build Tower - 6 kyu\Build Tower - 6 kyu\obj\Debug\Build Tower - 6 kyu.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\Build Tower - 6 kyu\Build Tower - 6 kyu\obj\Debug\Build Tower - 6 kyu.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\Build Tower - 6 kyu\Build Tower - 6 kyu\obj\Debug\Build Tower - 6 kyu.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\Build Tower - 6 kyu\Build Tower - 6 kyu\obj\Debug\Build Tower - 6 kyu.pdb
