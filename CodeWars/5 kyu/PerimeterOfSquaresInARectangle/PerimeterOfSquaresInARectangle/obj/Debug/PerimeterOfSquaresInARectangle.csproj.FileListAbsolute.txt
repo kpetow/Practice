@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\PerimeterOfSquaresInARectangle\PerimeterOfSquaresInARectangle\bin\Debug\PerimeterOfSquaresInARectangle.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\PerimeterOfSquaresInARectangle\PerimeterOfSquaresInARectangle\bin\Debug\PerimeterOfSquaresInARectangle.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\PerimeterOfSquaresInARectangle\PerimeterOfSquaresInARectangle\bin\Debug\PerimeterOfSquaresInARectangle.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\PerimeterOfSquaresInARectangle\PerimeterOfSquaresInARectangle\obj\Debug\PerimeterOfSquaresInARectangle.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\PerimeterOfSquaresInARectangle\PerimeterOfSquaresInARectangle\obj\Debug\PerimeterOfSquaresInARectangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\PerimeterOfSquaresInARectangle\PerimeterOfSquaresInARectangle\obj\Debug\PerimeterOfSquaresInARectangle.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\PerimeterOfSquaresInARectangle\PerimeterOfSquaresInARectangle\obj\Debug\PerimeterOfSquaresInARectangle.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\PerimeterOfSquaresInARectangle\PerimeterOfSquaresInARectangle\obj\Debug\PerimeterOfSquaresInARectangle.pdb
