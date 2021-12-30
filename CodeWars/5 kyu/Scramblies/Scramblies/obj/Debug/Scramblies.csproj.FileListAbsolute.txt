@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Scramblies\Scramblies\bin\Debug\Scramblies.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Scramblies\Scramblies\bin\Debug\Scramblies.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Scramblies\Scramblies\bin\Debug\Scramblies.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Scramblies\Scramblies\obj\Debug\Scramblies.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Scramblies\Scramblies\obj\Debug\Scramblies.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Scramblies\Scramblies\obj\Debug\Scramblies.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Scramblies\Scramblies\obj\Debug\Scramblies.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Scramblies\Scramblies\obj\Debug\Scramblies.pdb
