@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Factorial Decomposition\Factorial Decomposition\bin\Debug\Factorial Decomposition.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Factorial Decomposition\Factorial Decomposition\bin\Debug\Factorial Decomposition.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Factorial Decomposition\Factorial Decomposition\bin\Debug\Factorial Decomposition.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Factorial Decomposition\Factorial Decomposition\obj\Debug\Factorial Decomposition.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Factorial Decomposition\Factorial Decomposition\obj\Debug\Factorial Decomposition.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Factorial Decomposition\Factorial Decomposition\obj\Debug\Factorial Decomposition.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Factorial Decomposition\Factorial Decomposition\obj\Debug\Factorial Decomposition.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Factorial Decomposition\Factorial Decomposition\obj\Debug\Factorial Decomposition.pdb
