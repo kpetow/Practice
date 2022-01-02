@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\TortoiseRacing\TortoiseRacing\bin\Debug\TortoiseRacing.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\TortoiseRacing\TortoiseRacing\bin\Debug\TortoiseRacing.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\TortoiseRacing\TortoiseRacing\bin\Debug\TortoiseRacing.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\TortoiseRacing\TortoiseRacing\obj\Debug\TortoiseRacing.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\TortoiseRacing\TortoiseRacing\obj\Debug\TortoiseRacing.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\TortoiseRacing\TortoiseRacing\obj\Debug\TortoiseRacing.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\TortoiseRacing\TortoiseRacing\obj\Debug\TortoiseRacing.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\TortoiseRacing\TortoiseRacing\obj\Debug\TortoiseRacing.pdb
