@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\ExtractFileName\ExtractFileName\bin\Debug\ExtractFileName.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\ExtractFileName\ExtractFileName\bin\Debug\ExtractFileName.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\ExtractFileName\ExtractFileName\bin\Debug\ExtractFileName.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\ExtractFileName\ExtractFileName\obj\Debug\ExtractFileName.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\ExtractFileName\ExtractFileName\obj\Debug\ExtractFileName.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\ExtractFileName\ExtractFileName\obj\Debug\ExtractFileName.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\ExtractFileName\ExtractFileName\obj\Debug\ExtractFileName.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\6 kyu\ExtractFileName\ExtractFileName\obj\Debug\ExtractFileName.pdb
