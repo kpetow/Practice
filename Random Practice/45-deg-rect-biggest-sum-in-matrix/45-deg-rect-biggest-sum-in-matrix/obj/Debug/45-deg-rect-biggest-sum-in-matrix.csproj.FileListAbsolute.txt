@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\Random Practice\45-deg-rect-biggest-sum-in-matrix\45-deg-rect-biggest-sum-in-matrix\bin\Debug\45-deg-rect-biggest-sum-in-matrix.exe.config
+C:\Users\kpeto\source\repos\Practice\Random Practice\45-deg-rect-biggest-sum-in-matrix\45-deg-rect-biggest-sum-in-matrix\bin\Debug\45-deg-rect-biggest-sum-in-matrix.exe
+C:\Users\kpeto\source\repos\Practice\Random Practice\45-deg-rect-biggest-sum-in-matrix\45-deg-rect-biggest-sum-in-matrix\bin\Debug\45-deg-rect-biggest-sum-in-matrix.pdb
+C:\Users\kpeto\source\repos\Practice\Random Practice\45-deg-rect-biggest-sum-in-matrix\45-deg-rect-biggest-sum-in-matrix\obj\Debug\45-deg-rect-biggest-sum-in-matrix.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\Random Practice\45-deg-rect-biggest-sum-in-matrix\45-deg-rect-biggest-sum-in-matrix\obj\Debug\45-deg-rect-biggest-sum-in-matrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\Random Practice\45-deg-rect-biggest-sum-in-matrix\45-deg-rect-biggest-sum-in-matrix\obj\Debug\45-deg-rect-biggest-sum-in-matrix.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\Random Practice\45-deg-rect-biggest-sum-in-matrix\45-deg-rect-biggest-sum-in-matrix\obj\Debug\45-deg-rect-biggest-sum-in-matrix.exe
+C:\Users\kpeto\source\repos\Practice\Random Practice\45-deg-rect-biggest-sum-in-matrix\45-deg-rect-biggest-sum-in-matrix\obj\Debug\45-deg-rect-biggest-sum-in-matrix.pdb

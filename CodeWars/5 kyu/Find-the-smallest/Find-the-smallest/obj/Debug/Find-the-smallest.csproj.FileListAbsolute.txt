@@ -1,0 +1,8 @@
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Find-the-smallest\Find-the-smallest\bin\Debug\Find-the-smallest.exe.config
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Find-the-smallest\Find-the-smallest\bin\Debug\Find-the-smallest.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Find-the-smallest\Find-the-smallest\bin\Debug\Find-the-smallest.pdb
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Find-the-smallest\Find-the-smallest\obj\Debug\Find-the-smallest.csproj.AssemblyReference.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Find-the-smallest\Find-the-smallest\obj\Debug\Find-the-smallest.csproj.SuggestedBindingRedirects.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Find-the-smallest\Find-the-smallest\obj\Debug\Find-the-smallest.csproj.CoreCompileInputs.cache
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Find-the-smallest\Find-the-smallest\obj\Debug\Find-the-smallest.exe
+C:\Users\kpeto\source\repos\Practice\CodeWars\5 kyu\Find-the-smallest\Find-the-smallest\obj\Debug\Find-the-smallest.pdb
