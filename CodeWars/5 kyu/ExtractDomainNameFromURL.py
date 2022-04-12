@@ -24,5 +24,5 @@ def domain_name(url):
         return c.group(1)
 
 
-url = input(f'Enter a url: ')
-print(domain_name(url))
+output = input(f'Enter a url: ')
+print(domain_name(output))
